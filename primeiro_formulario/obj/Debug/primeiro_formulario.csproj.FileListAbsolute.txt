@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\graphic_1\primeiro_formulario\bin\Debug\primeiro_formulario.exe.config
+C:\Users\User\Source\Repos\graphic_1\primeiro_formulario\bin\Debug\primeiro_formulario.exe
+C:\Users\User\Source\Repos\graphic_1\primeiro_formulario\bin\Debug\primeiro_formulario.pdb
+C:\Users\User\Source\Repos\graphic_1\primeiro_formulario\obj\Debug\primeiro_formulario.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\graphic_1\primeiro_formulario\obj\Debug\primeiro_formulario.Form1.resources
+C:\Users\User\Source\Repos\graphic_1\primeiro_formulario\obj\Debug\primeiro_formulario.Properties.Resources.resources
+C:\Users\User\Source\Repos\graphic_1\primeiro_formulario\obj\Debug\primeiro_formulario.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\graphic_1\primeiro_formulario\obj\Debug\primeiro_formulario.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\graphic_1\primeiro_formulario\obj\Debug\primeiro_formulario.exe
+C:\Users\User\Source\Repos\graphic_1\primeiro_formulario\obj\Debug\primeiro_formulario.pdb
